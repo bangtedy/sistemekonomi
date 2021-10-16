@@ -1,6 +1,6 @@
 ---
 title: "Konsep Dasar Sistem Ekonomi"
-subtitle: "Inisiasi 1"  
+subtitle: "SESI 1"  
 author: "Tedy Herlambang"
 date: '`r Sys.Date()`'
 output:
