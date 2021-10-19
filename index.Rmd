@@ -5,7 +5,7 @@ author: "Tedy Herlambang"
 date: '`r Sys.Date()`'
 output:
   xaringan::moon_reader:
-    css: ["uwm_nolog.css", "uwm-fonts", "extra_css.css"]
+    css: ["ki_nolog.css", "ki-fonts", "extra_css.css"]
     lib_dir: libs
     nature:
       slideNumberFormat: "%current%"
@@ -108,11 +108,18 @@ Mata kuliah ini akan menyajikan materi yang terbagi dalam enam modul yaitu: pert
 # Rancangan Aktivitas Tutorial:
 
 - [Sesi 1: Konsep Dasar Sistem Ekonomi](https://bangtedy.github.io/sistemekonomi/sesi1#1)
-
+- [Sesi 2: Sistem Ekonomi dan Kebijakan Publik](https://bangtedy.github.io/sistemekonomi/sesi2#1)
+- [Sesi 3: Sistem Ekonomi Kapitalis](https://bangtedy.github.io/sistemekonomi/sesi3#1)
+- [Sesi 4: Sistem Ekonomi Sosialis](https://bangtedy.github.io/sistemekonomi/sesi4#1)
+- [Sesi 5: Sistem Ekonomi Campuran](https://bangtedy.github.io/sistemekonomi/sesi5#1)
+- [Sesi 6: Sistem Ekonomi Islam](https://bangtedy.github.io/sistemekonomi/sesi6#1)
+- [Sesi 7: Sistem Ekonomi Indonesia I](https://bangtedy.github.io/sistemekonomi/sesi7#1)
+- [Sesi 8: Sistem Ekonomi Indonesia II](https://bangtedy.github.io/sistemekonomi/sesi8#1)
 ---
 
 ### Rujukan Utama
 - Hamid, Edy Suandi, 2018. Buku Materi Pokok (BMP) ESPA4318 Sistem Ekonomi Edisi 3. Tangerang Selatan: Universitas Terbuka.
+
 ### Rujukan Tambahan:
 - Doyle, Eleanor, 2005. The Economic System. John Wiley & Sons
 - Schneider, Geoffrey, 2019. The Evolution of Economic Ideas and Systems. A Pluralist Introduction. Routledge.
