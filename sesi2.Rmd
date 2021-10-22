@@ -1,0 +1,161 @@
+---
+title: "Sistem Ekonomi dan Kebijakan Publik"
+subtitle: "SESI 2"  
+author: "Tedy Herlambang"
+date: '`r Sys.Date()`'
+output:
+  xaringan::moon_reader:
+    css: ["ki_nolog.css", "ki-fonts", "extra_css.css"]
+    lib_dir: libs
+    nature:
+      slideNumberFormat: "%current%"
+      highlightStyle: github
+      highlightLines: true
+      ratio: 16:9
+      countIncrementalSlides: true
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+knitr::opts_chunk$set(
+  fig.width=9, fig.height=3.5, fig.retina=3,
+  out.width = "100%",
+  cache = FALSE,
+  echo = TRUE,
+  message = FALSE, 
+  warning = FALSE,
+  hiline = TRUE
+)
+```
+
+```{r xaringan-themer, include=FALSE, warning=FALSE}
+library(xaringanthemer)
+style_duo_accent(
+  primary_color = "#1381B0",
+  secondary_color = "#FF961C",
+  inverse_header_color = "#FFFFFF"
+)
+```
+
+```{r load_packages, message=FALSE, warning=FALSE, include=FALSE} 
+library(fontawesome)
+```
+
+```{r xaringan-tile-view, echo=FALSE}
+xaringanExtra::use_tile_view()
+```
+
+```{r xaringan-scribble, echo=FALSE}
+xaringanExtra::use_scribble()
+```
+layout: true
+
+<div class="my-footer"><span>bangtedy.github.io</span></div>
+
+<!-- this adds the link footer to all slides, depends on my-footer class in css-->
+---
+
+## Setelah mempelajari modul ini Anda diharapkan mampu:
+
+1. Menjelaskan konsep dasar kebijakan ekonomi dan keterkaitannya dengan sistem ekonomi tertentu.
+2. Menjelaskan peranan negara, pasar dan rakyat dalam kebijakan ekonomi berbasis sistem ekonomi tertentu.
+3. Menjelaskan cara pencapaian kesejahteraan rakyat berdasar kebijakan ekonomi dan sistem ekonomi tertentu.
+4. Menjelaskan perpektif dan konsepsi keadilan sosial yang terbangun dalam sistem ekonomi tertentu.
+5. Menjelaskan aspek-aspek etis(etika) dan moral dalam implementasi sistem ekonomi tertentu.
+
+---
+
+## Pengertian Kebijakan Publik
+- Prinsip-prinsip untuk mengarahkan cara-cara bertindak yang dibuat secara terencana dan konsisten
+- Kebijakan PPKM level 1,2,3,4: untuk apa?
+- Kebijakan transportasi
+- Kebijakan komunikasi
+- Kebijakan pertahanan keamanan
+- Kebijakan fasum dan fasos
+- Kebijakan sosial (termasuk kebijakan ekonomi)
+
+---
+
+## Kebijakan ekonomi:
+
+- Untuk memecahkan tiga persoalan ekonomi: masih ingat apa saja?
+- Melibatkan siapa saja?
+- Barang dan jasa yang harus mendapat prioritas:
+- Jalan tol dari Anyer ke Banyuwangi untuk memecahkan persoalan ekonomi yang mana?
+
+### Bagaimana dengan kasus [Bansos Covid-19](https://nasional.kompas.com/read/2021/08/23/18010551/awal-mula-kasus-korupsi-bansos-covid-19-yang-menjerat-juliari-hingga-divonis?page=all) ini menurut Anda?
+### Bagaimana dengan [Vaksin Agar Anak Bisa Kembali Sekolah](https://www.unicef.org/indonesia/coronavirus/stories/covid-vaccines-support-plans-get-children-bali-back-school)?
+
+---
+
+## Sifat kolektivitas dalam kegiatan perekonomian
+- Pasal 33 UUD 1945 (sebelum perubahan)
+- Bagaimana dengan asumsi dasar pelaku ekonomi itu bersemangat menggapai kepentingan sendiri  (*self-interested behaviour*)?
+- Bagaimana jika terdapat konflik antara kepentingan pribadi dengan kepentingan umum?
+    + Contoh:
+    + Solusi:
+
+
+---
+
+## Sistem Ekonomi dan Keadilan Sosial
+
+### Konsep Keadilan Sosial
+- Mungkinkah seseorang/lembaga bertindak etis tapi tidak adil?
+    + Perusahaan demi mengejar laba besar, menggaji pekerjanya dengan murah?
+    + Perusahaan demi produktivitas mengganti tenaga kerja dengan mesin/robot?
+    + Perusahaan yang mencemari lingkungan?
+- Bertens: keadilan adalah memberikan kepada setiap orang yang menjadi haknya.
+    + Dimana hak-hak itu diatur?
+    + Jika hak-hak seseorang dilanggar, pergi kemana?
+    + Perlu pemerintah (penegak hukum yang kuat) dan kontrol masyarakat
+
+---
+
+## Keadilan dalam Teori dan Sistem Ekonomi
+
+- Aliran ekonomi neo-Classic: kegiatan ekonomi dibagi dua yaitu **produksi dan konsumsi**.
+- Jika terjadi masalah distribusi/ketimpangan: diserahkan ke mekanisme pasar
+  + _trickle down effect_: menetesnya kemakmuran ke bawah, doktrin yang tidak pernah terbukti benar.
+- Ketidakadilan muncul ketika pemerintah mengistimewakan pihak-pihak tertentu: **nepotisme**
+  + Proyek-proyek, izin impor ekspor
+  + Apalagi?
+- Pemerintah harus memberikan sosial ekonomi yang sama: 
+  + Kesempatan yang sama untuk mendapatkan pendidikan, pekerjaan dan kehidupan yang layak
+  + Pekerjaan pemerintah itu berat dan banyak ya?
+
+---
+
+## Prinsip Keadilan Sosial
+
+- Kaitkan dengan barang apa yang harus diproduksi?
+- Kaitkan dengan bagaimana barang dan jasa itu harus diproduksi?
+- Kaitkan dengan persoalan untuk siapa barang itu diproduksi?
+
+### Diskusikan kegiatan ekonomi yang berhubungan tiga pertanyaan di atas yang kurang pas dengan  pasal 33 UUD 1945:
+
+---
+
+## Etika dalam Sistem Ekonomi
+- Etika (Keraf): kebiasaan hidup yang baik pada seseorang atau kelompok masyarakat.
+  + Apa kebiasaan hidup baik yang hilang di sekitar kita?
+  
+### Sasaran Etika Bisnis
+- Prinsip praktik bisnis yang baik dan etis
+- Menyadarkan konsumen, pekerja, pengusaha akan hak dan kepentingan yang tidak boleh dilanggar oleh praktik bisnis siapa pun.
+- Di tingkat makro: sistem ekonomi yang menentukan etis tidaknya suatu praktek bisnis.
+
+### Diskusikan 
+1. [Sebuah perusahaan diduga cemari lingkungan!](https://news.detik.com/berita/d-5598047/diduga-cemari-lingkungan-34-tahun-pabrik-di-toba-diadukan-ke-bareskrim)
+2. [Pertamina Kembangkan Sistem Desalinasi Air](https://www.pertamina.com/id/news-room/csr-news/pertamina-kembangkan-sistem-desalinasi-air-berbasis-masyarakat-di-dusun-bondan-cilacap).
+
+---
+
+class: inverse, right, middle
+
+<img class= "circle" src="https://github.com/bangtedy.png" width="150px"/>
+
+### Matur nuwun, find me at...
+
+[`r fa(name = "twitter")` @t_hlb](http://twitter.com/t_hlb)  
+[`r fa(name = "blog")` bangtedy.github.io](https://bangtedy.github.io)
