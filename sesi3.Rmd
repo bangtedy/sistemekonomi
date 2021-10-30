@@ -47,14 +47,14 @@ class: middle, title-slide
 
 # Sistem Ekonomi Kapitalis
 
-<hr width="100%" align="left" size="0.3" color="yellow"></hr>
+<hr width="100%" align="left" size="0.3" color="gold"></hr>
 
 ## <span style="color:yellow">Sesi 3</span>
 
 ### Tedy Herlambang .small[<br> + Sistem Ekonomi]
 
 <br><br><br><br><br>
-[<i class="fas fa-blog" style="color:#e7e8e2"></i> bangtedy](https://bangtedy.github.io)
+[<i class="fas fa-blog" style="color:#e7e8e2"></i> bangtedy.github.io](https://bangtedy.github.io)
 
 [<i class="fa fa-twitter fa-lg" style="color:#e7e8e2"></i> @t_hlb](https://twitter.com/t_hlb)
 
@@ -65,7 +65,7 @@ class: middle, title-slide
 Setelah mempelajari modul 3 ini diharapkan Anda mampu menganalisis dan menjelaskan perihal konsep dan praktek sistem ekonomi kapital dan wujud kontekstualnya kini sebagai globalisasi ekonomi (kapitalisme global). Secara khusus, Anda diharapkan mampu:
 
 1. Menjelaskan paham filosofis yang mendasari sistem ekonomi kapitalis dan kapitalis neoliberal. 
-2. Menjelaskan ciri-ciri dan praktek sistem ekonomi kapitalis dan kapitalis neoliberal di dunia, khususnya di Indonesi. 
+2. Menjelaskan ciri-ciri dan praktek sistem ekonomi kapitalis dan kapitalis neoliberal di dunia, khususnya di Indonesia. 
 3. Menganalisis dan menjelaskan hakekat globalisasi ekonomi dan keterkaitannya dengan sistem kapitalisme global.
 4. Menganalisis dan menjelaskan wujud globalisasi ekonomi dan dampaknya bagi negara berkembang, khususnya bagi Indonesia.
 5. Menganalisis dan menjelaskan solusi dan strategi keluar dari telikung kapitalisme global.
