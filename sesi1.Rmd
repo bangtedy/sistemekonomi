@@ -5,7 +5,7 @@ author: "Tedy Herlambang"
 date: '`r Sys.Date()`'
 output:
   xaringan::moon_reader:
-    css: ["ki_nolog.css", "ki-fonts", "extra_css.css"]
+    css: ["useR_nolog.css", "uwm-fonts", "extra_css.css"]
     lib_dir: libs
     nature:
       slideNumberFormat: "%current%"
@@ -210,7 +210,6 @@ class: middle, center
 
 class: inverse, right, middle
 
-<img class= "circle" src="https://github.com/bangtedy.png" width="150px"/>
 
 # Find me at...
 
