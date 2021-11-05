@@ -49,9 +49,9 @@ class: middle, title-slide
 
 <hr width="100%" align="left" size="0.3" color="gold"></hr>
 
-## <span style="color:yellow">Sesi 3</span>
+## <span style="color:red">Sistem Ekonomi Sesi 3</span>
 
-### Tedy Herlambang .small[<br> + Sistem Ekonomi]
+### Tedy Herlambang .small[<br> ]
 
 <br><br><br><br><br>
 [<i class="fas fa-blog" style="color:#e7e8e2"></i> bangtedy.github.io](https://bangtedy.github.io)

@@ -49,7 +49,7 @@ class: middle, title-slide
 
 <hr width="100%" align="left" size="0.3" color="red"></hr>
 
-## <span style="color:red">Sistem Ekonomi Sesi 3</span>
+## <span style="color:red">Sistem Ekonomi Sesi 4</span>
 
 ### Tedy Herlambang .small[<br>]
 
