@@ -1,7 +1,7 @@
 /*title page*/
   .title-slide {
     # background-image: url('../../img/rmbg.jpg');
-    background-color: #243823;
+    background-color: #1c212b;
     background-size: contain;
     border: 0px;
     background-position: 600px 0;
@@ -140,7 +140,7 @@ a {
 
 /* background color of inverse slide */
 .inverse {
-    background-color: #243823;
+    background-color: #1c212b;
     color: #9bb80d;
 }
 .inverse h1 {

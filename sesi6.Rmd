@@ -1,0 +1,140 @@
+---
+title: Tedy Herlambang/sistemekonomi
+output:
+  xaringan::moon_reader:
+  #  self_contained: TRUE
+    includes:
+      in_header: conf/style-header.html
+    lib_dir: libs
+    seal: false
+    css: ["default", "conf/css/style.css", "conf/css/fonts.css"]
+    nature:
+      beforeInit: ["conf/js/gifffer.min.js", "conf/js/style-macros.js"]
+      ratio: 16:9
+---
+
+```{r setup, echo = F}
+knitr::opts_chunk$set(
+  comment = "#",
+  #cache = TRUE,
+  collapse = TRUE,
+  warning = FALSE,
+  message = FALSE,
+  fig.width = 7,
+  fig.height = 5.25,
+  fig.align = 'center',
+  fig.retina = 3
+)
+
+# base plot layout
+mypar = list(mar = c(3,3,0.5,0.5), mgp = c(1.5, 0.3, 0), tck = -.008)
+
+# xaringan Extra
+xaringanExtra::use_xaringan_extra(c("tile_view", "animate_css", "tachyons"))
+xaringanExtra::use_extra_styles(
+  hover_code_line = TRUE,         #<<
+  mute_unhighlighted_code = TRUE  #<<
+)
+xaringanExtra::use_editable(expires = 1)
+xaringanExtra::use_panelset()
+xaringanExtra::use_scribble()
+```
+class: middle, title-slide
+
+<!-- top logo (comment to remove or edit on `conf/css/style.css:23`) -->
+<div class="lab-logo"></div>
+<!-- <div class="uni-logo"></div> -->
+
+# Sistem Ekonomi Islam
+
+<hr width="100%" align="left" size="0.3" color="red"></hr>
+
+## <span style="color:red">Sistem Ekonomi Sesi 6</span>
+
+### Tedy Herlambang .small[<br>]
+
+<br><br><br><br><br>
+[<i class="fas fa-blog" style="color:#e7e8e2"></i> bangtedy.github.io](https://bangtedy.github.io)
+
+[<i class="fa fa-twitter fa-lg" style="color:#e7e8e2"></i> @t_hlb](https://twitter.com/t_hlb)
+
+---
+
+# <span style="color:#243823">Pendahuluan</i>
+
+Modul ini membahas sistem ekonomi alternatif diluar sistem ekonomi **kapitalis** dan **sosialis**.
+
+Indikator Kompetensi setelah mempelajari modul ini, Anda diharapkan mampu:
+1. Menjelaskan paham filosofis yang mendasari sistem ekonomi Islam
+2. Menjelaskan ciri-ciri dan karakteristik sistem ekonomi Islam
+3. Menjelaskan sejarah dan perkembangan sistem ekonomi Islam
+4. Menjelaskan pendekatan yang digunakan para ekonomi Islam dalam mengembangkan sistem ekonomi Islam
+
+---
+class: middle, center, inverse
+
+# KB3: SISTEM EKONOMI ISLAM
+<hr width="100%" align="left" size="0.3" color="red"></hr>
+
+---
+# Dasar Sistem Ekonomi Islam (SEI)
+
+- Islam adalah agama yang ajarannya harus diterapkan oleh umatnya dalam seluruh sendi kehidupan
+- Islam juga mengatur bagaimana manusia berperilaku dalam ekonomi, politik, pertahanan, keamanan dan lain-lain
+- SEI dibentuk dengan menggunakan acuan ajaran Islam yang didasarkan pada Al-Quran dan As-Sunnah dengan mempertimbangkan kondisi lingkungan dan waktu (Muhammad bib Abdullah al-Arabi)
+
+---
+# Asas Filsafat Ekonomi Islam (M. Saefuddin)
+1. Semua yang ada di alam semesta,langit, bumu serta sumber alam didalamnya semua milik Allah.
+  - Manusia sebagai pengelola, mengambil manfaat dan tidak boleh merusaknya
+2. Allah itu Maha Esa. Manusia ciptaan Allah dengan sebagai khalifah di bumi, melindungi makhluk lain dan bekerja sama dengan sesama manusia.
+3. Berimana kepada hari kiamat dan hari pengadilan  --> menjaga perilaku ekonominya
+
+---
+# Nilai-nilai Dasar Ekonomi Islam
+
+1. Nilai dasar kepemilikan
+2. Keseimbangan
+3. Keadilan
+---
+# CIRI-CIRI DAN KARAKTERISTIK SEI
+- Kapitalis, nilai instrumentalnya: persaingan sempurna, free entry and exit, informasi dan bentuk pasar yang atomistik monopolistik
+- Sosialis: perencanaan ekonomi terpusat dan mekanistik, pemilikan faktor produksi secara kolektif oleh proletar
+- SEI: zakat, pelarangan riba, kerjasama ekonomi, jaminan sosial, peranan negara
+---
+# Variabel Pembeda SEI
+1. Peran Pemerintah
+2. Kepemilikan Sumber Daya
+3. Bidang usaha ekonomi rakyat
+4. Produk yang diproduksi produsen
+5. Pembentukan harga di pasar
+6. Tujuan Produksi
+7. Konsumsi
+
+---
+class: middle, center, inverse
+
+# KB4: PERKEMBANGAN SISTEM EKONOMI ISLAM
+<hr width="100%" align="left" size="0.3" color="red"></hr>
+---
+# DASAR SISTEM EKONOMI ISLAM
+Pendekatan Islam dalam Ekonomi:
+1. Konsumsi dibatasi hanya pada tingkat yang perlu dan bermanfaat saja
+2. Alat pemuas dan kebutuhan seimbang
+3. Nilai-nilai moral untuk sirkulasi barang dan jasa
+4. Pemerataan pendapatan dilakukan --> zakat
+---
+# MEMBANGUN SISTEM EKONOMI ISLAM
+Tiga alasan untuk mengembangkan teori ekonomi Islam (Mannan):
+1. Untuk belajar dari pengalaman terdahulu
+2. Untuk menjelaskan keadaan ekonomi yang aktual
+3. Untuk mengidentifikasi "kesenjangan" antara teori ideal dengan praktik
+---
+class: inverse, right, bottom
+
+# Matur nuwun, find me at...
+<hr width="45%" align="right" size="0.3" color="orange"></hr>
+
+[<i class="fa fa-twitter fa-lg" style="color:#e7e8e2"></i> <span style="color:#fc911e"> @t_hlb </span>](https://twitter.com/t_hlb)
+
+[<i class="fas fa-blog" style="color:#fc911e"></i><span style="color:#e7e8e2"> bangtedy.github.io</span>](https://bangtedy.github.io)
