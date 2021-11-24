@@ -82,7 +82,7 @@ class: middle, center, inverse
 
 - Islam adalah agama yang ajarannya harus diterapkan oleh umatnya dalam seluruh sendi kehidupan
 - Islam juga mengatur bagaimana manusia berperilaku dalam ekonomi, politik, pertahanan, keamanan dan lain-lain
-- SEI dibentuk dengan menggunakan acuan ajaran Islam yang didasarkan pada Al-Quran dan As-Sunnah dengan mempertimbangkan kondisi lingkungan dan waktu (Muhammad bib Abdullah al-Arabi)
+- SEI dibentuk dengan menggunakan acuan ajaran Islam yang didasarkan pada Al-Quran dan As-Sunnah dengan mempertimbangkan kondisi lingkungan dan waktu (Muhammad bin Abdullah al-Arabi)
 
 ---
 # Asas Filsafat Ekonomi Islam (M. Saefuddin)
