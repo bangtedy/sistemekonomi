@@ -61,6 +61,8 @@ class: middle, title-slide
 
 ---
 
+# Pengantar
+
 - Capaian Pembelajaran Umum:
 
 Mahasiswa mampu menjelaskan perlunya dilakukan reformasi system ekonomi Indonesia menuju system ekonomi Pancasila melalui implementasi agenda-agenda ekonomi kerakyatan di Indonesia.
@@ -69,7 +71,7 @@ Mahasiswa mampu menjelaskan perlunya dilakukan reformasi system ekonomi Indonesi
 
   1.	Menganalisis dan menjelaskan perlunya melakukan reformasi sosial melalui reformasi system ekonomi Indonesia
   2.	menjelaskan landasan constitutional dan filosofis, prinsip dan ciri-ciri penerapan system ekonomi Pancasila
-3.	menjelaskan implementasi agenda ekonomi kerakyatan melalui peranan koperasi, jaminan sosial, dan lembaga keuangan mikro di Indonesia
+  3.	menjelaskan implementasi agenda ekonomi kerakyatan melalui peranan koperasi, jaminan sosial, dan lembaga keuangan mikro di Indonesia
 
 
 ---

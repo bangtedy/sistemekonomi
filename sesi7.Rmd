@@ -60,6 +60,9 @@ class: middle, title-slide
 [<i class="fa fa-twitter fa-lg" style="color:#e7e8e2"></i> @t_hlb](https://twitter.com/t_hlb)
 
 ---
+
+# Pengantar
+
 - Capaian Pembelajaran Umum:
 
 Mahasiswa mampu menjelaskan dan menganalisis tentang sejarah dan perkembangan system ekonomi Pancasila, hingga perlunya dilakukan reformasi system ekonomi menuju system ekonomi Pancasila melalui implementasi agenda-agenda ekonomi kerakyatan di Indonesia.
