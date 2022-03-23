@@ -1,0 +1,33 @@
+name: "cate"
+title: "Sistem Ekonomi"
+description: |
+  cate
+output_dir: "docs"
+theme: ut-theme.css
+navbar:
+  right:
+    - icon: fa-home
+      href: index.html
+    - text: "Tinjauan Mata Kuliah"
+      href: about.html
+    - text: "Sesi"
+      menu:
+        - text: "Sesi 1"
+          href: sesi1/sesi1.html
+        - text: "Sesi 2"
+          href: sesi2/sesi2.html
+        - text: "Sesi 3"
+          href: sesi3/sesi3.html
+        - text: "Sesi 4"
+          href: sesi4/sesi4.html
+        - text: "Sesi 5"
+          href: sesi5/sesi5.html
+        - text: "Sesi 6"
+          href: sesi6/sesi6.html
+        - text: "Sesi 7"
+          href: sesi7/sesi7.html
+        - text: "Sesi 8"
+          href: sesi8/sesi8.html
+output: 
+  distill::distill_article:
+  

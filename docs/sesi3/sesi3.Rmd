@@ -1,0 +1,194 @@
+---
+title: Tedy Herlambang/sistemekonomi
+output:
+  xaringan::moon_reader:
+  #  self_contained: TRUE
+    includes:
+      in_header: conf/style-header.html
+    lib_dir: libs
+    seal: false
+    css: ["default", "conf/css/style.css", "conf/css/fonts.css"]
+    nature:
+      beforeInit: ["conf/js/gifffer.min.js", "conf/js/style-macros.js"]
+      ratio: 16:9
+---
+
+```{r, echo = FALSE}
+# google scholar metadata
+library(metathis)
+
+if (knitr::is_html_output()) {
+  meta() |> 
+    meta_google_scholar(
+      title = "Sistem Ekonomi Kapitalis",
+      author = "Tedy Herlambang",
+      publication_date = "2021",
+      isbn = ""
+    ) 
+}
+```
+
+```{r setup, echo = F}
+knitr::opts_chunk$set(
+  comment = "#",
+  #cache = TRUE,
+  collapse = TRUE,
+  warning = FALSE,
+  message = FALSE,
+  fig.width = 7,
+  fig.height = 5.25,
+  fig.align = 'center',
+  fig.retina = 3
+)
+
+# base plot layout
+mypar = list(mar = c(3,3,0.5,0.5), mgp = c(1.5, 0.3, 0), tck = -.008)
+
+# xaringan Extra
+xaringanExtra::use_xaringan_extra(c("tile_view", "animate_css", "tachyons"))
+xaringanExtra::use_extra_styles(
+  hover_code_line = TRUE,         #<<
+  mute_unhighlighted_code = TRUE  #<<
+)
+xaringanExtra::use_editable(expires = 1)
+xaringanExtra::use_panelset()
+xaringanExtra::use_scribble()
+```
+class: middle, title-slide
+
+<!-- top logo (comment to remove or edit on `conf/css/style.css:23`) -->
+<div class="lab-logo"></div>
+<!-- <div class="uni-logo"></div> -->
+
+# Sistem Ekonomi Kapitalis
+
+<hr width="100%" align="left" size="0.3" color="gold"></hr>
+
+## <span style="color:red">Sistem Ekonomi Sesi 3</span>
+
+### Tedy Herlambang .small[<br> ]
+
+<br><br><br><br><br>
+[<i class="fas fa-blog" style="color:#e7e8e2"></i> bangtedy.github.io](https://bangtedy.github.io)
+
+[<i class="fa fa-twitter fa-lg" style="color:#e7e8e2"></i> @t_hlb](https://twitter.com/t_hlb)
+
+---
+
+# Pendahuluan
+
+Setelah mempelajari modul 3 ini diharapkan Anda mampu menganalisis dan menjelaskan perihal konsep dan praktek sistem ekonomi kapital dan wujud kontekstualnya kini sebagai globalisasi ekonomi (kapitalisme global). Secara khusus, Anda diharapkan mampu:
+
+1. Menjelaskan paham filosofis yang mendasari sistem ekonomi kapitalis dan kapitalis neoliberal. 
+2. Menjelaskan ciri-ciri dan praktek sistem ekonomi kapitalis dan kapitalis neoliberal di dunia, khususnya di Indonesia. 
+3. Menganalisis dan menjelaskan hakekat globalisasi ekonomi dan keterkaitannya dengan sistem kapitalisme global.
+4. Menganalisis dan menjelaskan wujud globalisasi ekonomi dan dampaknya bagi negara berkembang, khususnya bagi Indonesia.
+5. Menganalisis dan menjelaskan solusi dan strategi keluar dari telikung kapitalisme global.
+
+---
+class: middle, center, inverse
+
+# SISTEM EKONOMI KAPITALIS
+<hr width="100%" align="left" size="0.3" color="yellow"></hr>
+
+---
+# Filosofi Sistem Ekonomi Kapitalis Murni
+
+Dasar Pemikiran Sistem Ekonomi Kapitalis 
+- liberalisme
+- individualisme
+- rasionalisme/intelektualisme
+- materialisme
+- humanisme
+- muncul setelah keruntuhan dominasi gereja di Eropa
+
+---
+# Ciri-Ciri Sistem Ekonomi Kapitalis
+1. Penjaminan atas hak milik seseorang
+2. Mementingkan diri sendiri (*self interest*)
+3. Pemberian kebebasan penuh
+4. Persaingan bebas (*free competition*)
+5. Harga sebagai penentu (*price system*)
+6. Peran negara minimal
+
+---
+# Perkembangan Ekonomi Kapitalis Neoliberal
+- Pemerintahan Tatcher di Inggris
+- Pemerintah Reagan di AS
+
+**Inti ajarannya**
+
+- pasar bebas dalam barang dan jasa
+- perputaran modal yang bebas
+- kebebasan investasi
+
+<span style="color:yellow">IMPLIKASI</span>
+- deregulasi
+- liberalisasi
+- privatisasi
+
+---
+
+# Sistem Kapitalis Neoliberal di Indonesia
+- Indonesia juga ikut terjerat kapitalisme neoliberal
+  + siklus hutang yang tiada habisnya
+  + modal asing yang mendominasi perekonomian Indonesia:
+    + menguasai aset strategis
+    + cabang produksi (BUMN)
+    + industri hulu sampai hilir
+  + penghapusan tarif, subsidi, larangan protekso ekonomi domestik
+    + negara maju justru melakukannya
+- Dominasi peran korporasi(swasta), marginalisasi peran negara dan rakyat
+  + Indonesia harus menemukan sistem ekonomi yang mampu menghadapi tantangan penjajahan ekonomi ini.
+  
+---
+class: middle, center, inverse
+
+# GLOBALISASI EKONOMI DAN KAPITALISME GLOBAL
+<hr width="100%" align="left" size="0.5" color="yellow"></hr>
+
+
+---
+# Konsep Globalisasi Ekonomi
+- penghapusan berbagai hambatan perdagangan bebas dan memperkuat integrasi ekonomi antarnegara
+-penyatuan yang semakin dekat antara negara-negara dan masyarakat-masyarakat didunia
+  + biaya transportasi dan komunikasi yang semakin murah
+  + *borderless world*
+
+---
+# Perkembangan dan Dampak GLobalisasi Ekonomi
+- apakah perdagangan bebas atas nama globalisasi ekonomi merefleksikan kesejahteraan masyarakat dunia?
+
+.font150[**MASIH DIPERTANYAKAN**]
+
+- siapa dan negara-negara mana yang perekonomiannya mengalami peningkatan pesat?
+
+
+---
+# Kapitalisme Global dan Eksploitasi Dunia Ketiga
+- globalisasi memerosotkan nilai tukar ekspor negara sedang berkembang terhadap impor barang-barang manufaktur yang dibutuhkannya.
+- Walden Bello (2004): WTO menjadi perpanjangan tangan tangan perusahaan-perusahaan transnasional sebagai monopolis dunia.
+
+.font150[**SISI POSITIF**]
+
+- meningkatnya output dunia
+- semakin banyak tawaran komoditi berkualitas dengan harga relatif murah.
+
+---
+class: inverse
+
+.pull-left1[
+<br>
+
+# Terima kasih
+<hr width="100%" align="left" size="0.5" color="yellow"></hr>
+
+<br><br><br><br><br><br><br><br>
+
+
+]
+
+.pull-right1[
+<br>
+![:scale 90%]()
+]

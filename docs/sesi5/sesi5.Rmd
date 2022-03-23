@@ -1,0 +1,172 @@
+---
+title: Tedy Herlambang/sistemekonomi
+output:
+  xaringan::moon_reader:
+  #  self_contained: TRUE
+    includes:
+      in_header: conf/style-header.html
+    lib_dir: libs
+    seal: false
+    css: ["default", "conf/css/style.css", "conf/css/fonts.css"]
+    nature:
+      beforeInit: ["conf/js/gifffer.min.js", "conf/js/style-macros.js"]
+      ratio: 16:9
+---
+
+```{r, echo = FALSE}
+# google scholar metadata
+library(metathis)
+
+if (knitr::is_html_output()) {
+  meta() |> 
+    meta_google_scholar(
+      title = "Sistem Ekonomi Campuran",
+      author = "Tedy Herlambang",
+      publication_date = "2021",
+      isbn = ""
+    ) 
+}
+```
+
+```{r setup, echo = F}
+knitr::opts_chunk$set(
+  comment = "#",
+  #cache = TRUE,
+  collapse = TRUE,
+  warning = FALSE,
+  message = FALSE,
+  fig.width = 7,
+  fig.height = 5.25,
+  fig.align = 'center',
+  fig.retina = 3
+)
+
+# base plot layout
+mypar = list(mar = c(3,3,0.5,0.5), mgp = c(1.5, 0.3, 0), tck = -.008)
+
+# xaringan Extra
+xaringanExtra::use_xaringan_extra(c("tile_view", "animate_css", "tachyons"))
+xaringanExtra::use_extra_styles(
+  hover_code_line = TRUE,         #<<
+  mute_unhighlighted_code = TRUE  #<<
+)
+xaringanExtra::use_editable(expires = 1)
+xaringanExtra::use_panelset()
+xaringanExtra::use_scribble()
+```
+class: middle, title-slide
+
+<!-- top logo (comment to remove or edit on `conf/css/style.css:23`) -->
+<div class="lab-logo"></div>
+<!-- <div class="uni-logo"></div> -->
+
+# Sistem Ekonomi Campuran
+
+<hr width="100%" align="left" size="0.3" color="red"></hr>
+
+## <span style="color:red">Sistem Ekonomi Sesi 5</span>
+
+### Tedy Herlambang .small[<br>]
+
+<br><br><br><br><br>
+[<i class="fas fa-blog" style="color:#e7e8e2"></i> bangtedy.github.io](https://bangtedy.github.io)
+
+[<i class="fa fa-twitter fa-lg" style="color:#e7e8e2"></i> @t_hlb](https://twitter.com/t_hlb)
+
+---
+
+# <span style="color:#243823">Pendahuluan</i>
+
+Modul ini membahas sistem ekonomi alternatif diluar sistem ekonomi **kapitalis** dan **sosialis**.
+
+Indikator Kompetensi setelah mempelajari modul ini, Anda diharapkan mampu:
+1. Mampu menjelaskan konsep, dan perkembangan sistem ekonomi campuran menjadi negara kesejahteraan
+2. Menjelaskan model dan praktek-praktek sistem ekonomi negara kesejahteraan di berbagai negara
+3. Menjelaskan perkembangan dan praktek sistem ekonomi dualistik di dunia dan khususnya Indonesia
+4. Menjelaskan ciri-ciri sistem ekonomi dualistik di negara sedang berkembang
+
+---
+class: middle, center, inverse
+
+# KB1: NEGARA KESEJAHTERAAN
+<hr width="100%" align="left" size="0.3" color="#9bb80d"></hr>
+
+---
+# Sejarah Perkembangan Negara Kesejahteraan
+
+- 3 kelompok utama sistem ekonomi tentang teori kepemilikan:
+  - SE Kapitalis: kepemilikan oleh sektor swasta
+  - SE Sosialis: Kepemilikan oleh negara/pemerintah
+  - SE Campuran: Kepemilikan swasta dan pemerintah
+
+---
+# John Maynard Keynes:
+- Kapitalisme membawa manfaat dan ekses negatif.
+- Negara berfungsi mengatasi ekses pengangguran dan ketimpangan pendapatan.
+- SE campuran --> negara kesejahteraan (*welfare state*).
+- WS ingin menciptakan demokrasi seluas-luasnya: kesempatan kerja, penguasaan teknologi, pendidikan.
+
+---
+# Tugas negara mengurangi kemiskinan struktural:
+
+1. Government spending (G) untuk pembelian barang dan jasa untuk operasional negara
+2. Penarikan pajak (T) --> pajak progresif
+3. Subsidi --> kemiskinan struktural
+
+---
+# Pengertian dan Konsep Negara Kesejahteraan
+1. Sebagai kondisi sejahtera (*well-being*)
+2. Sebagai pelayanan sosial
+3. Sebagai tunjangan sosial
+4. sebagai usaha terencana untuk meningkatkan kualitas kehidupan
+---
+# Model Negara Kesejahteraan
+1. Model Universal
+2. Model Korporasi (*work merit welfare state*)
+3. Model Residual
+4. Model Minimal --> Indonesia masih disini
+
+---
+# Kelompok negara berdasar rasio pembangunan ekonomi (PE) dengan pembangunan sosial (PS)
+
+1. Negara Sejahtera: PE dan PS tinggi
+2. Negara baik hati: PE relatif rendah tetapi PS tinggi
+3. Negara pelit: PE tinggi dan PS rendah
+4. Negara lemah: PE dan PS rendah --> Indonesia masih disini
+
+---
+class: middle, center, inverse
+
+# KB2: SISTEM EKONOMI DUALISTIK
+<hr width="100%" align="left" size="0.3" color="#9bb80d"></hr>
+
+---
+# Teori Dualisme Ekonomi Publik
+- JH Boeke, ahli ekonomi Belanda, pengalaman di Indonesia:
+- Masyarakat homogen: memiliki satu sistem sosial yang berlaku
+- Masyarakat majemuk/dualistik: memiliki dua sistem sosial atau lebih
+- Masyarakat dualistik: 
+  - Sistem barat impor yang maju +
+  - Sistem pertanian prakapitalisme
+---
+# Dualisme Ekonomi di Indonesia
+- Dualisme: teknologi, nilai/falsafah, ideologi, dan sosial budaya
+- Perdesaan dan perkotaan
+- Ekonomi formal dan informal
+- Ekonomi superior dan inferior
+---
+# Krisis dalam kerangka ekonomi dualistik
+- Krisis ekonomi --> pukulan telak bagi ekonom ortodoks (IMF dengan resep generiknya)
+- Usaha mikro, kecil dan menengah (ekonomi rakyat) memberi kontribusi positif pada pertumbuhan ekonomi
+- Ekonomi rakyat menyelamatkan ekonomi Indonesia dari jurang krisis.
+
+---
+
+class: inverse, right, bottom
+
+# Matur nuwun, find me at...
+<hr width="45%" align="right" size="0.3" color="orange"></hr>
+
+[<i class="fa fa-twitter fa-lg" style="color:#e7e8e2"></i> <span style="color:#fc911e"> @t_hlb </span>](https://twitter.com/t_hlb)
+
+[<i class="fas fa-blog" style="color:#fc911e"></i><span style="color:#e7e8e2"> bangtedy.github.io</span>](https://bangtedy.github.io)

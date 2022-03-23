@@ -1,0 +1,82 @@
+---
+title: "Sistem Ekonomi"
+description: |
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Inti Buku Materi Pokok
+
+- Menerangkan cara suatu negara untuk mencapai tujuan nasionalnya yang berkaitan dengan pertumbuhan ekonomi dan kesejahteraan. 
+
+- Pentingnya pengetahuan tentang peningkatan pertumbuhan ekonomi karena sangat erat kaitannya dengan kesejahteraan masyarakat di negara tersebut. 
+
+- Untuk mencapai pertumbuhan ekonomi yang diinginkan, ada berbagai cara yang dilakukan oleh suatu negara yang akhirnya akan menjadi faham yang di anut oleh negara tersebut. 
+
+---
+
+## Cakupan Materi
+
+Mata kuliah ini akan menyajikan materi yang terbagi dalam enam modul yaitu: pertama tentang konsep dasar sistem ekonomi, kedua sistem ekonomi dan kebijakan publik, ketiga sistem ekonomi kapitalis, keempat sistem ekonomi sosialis, kelima sistem ekonomi campuran dan ekonomi islam serta keenam sistem ekonomi di Indonesia
+
+---
+
+## Strategi Tutorial
+
+- Mahasiswa belajar aktif, 
+- Mahasiswa belajar mandiri, 
+- Mahasiswa belajar kooperatif dan kolaboratif, 
+- *Self-regulated learning*
+- Tutor adalah fasilitator, motivator, fasilitator, evaluator dan mitra pembelajaran
+- Mahasiswa aktif berpartisipasi dalam tutorial dengan berbagi informasi, pengalaman pribadi dengan cara brainstorming, Kooperatif, Kolaboratif, diskusi kelompok;
+- Mahasiswa secara aktif, mandiri dan tidak tergantung pada tutor untuk mengembangkan potensi dirinya untuk memiliki kekuatan spiritual keagamaan, pengendalian diri, kepribadian, kecerdasan, akhlak mulia, serta keterampilan yang diperlukan dirinya, masyarakat, bangsa dan negara. 
+
+---
+
+## Belajar Mandiri
+
+- Belajar mandiri dalam banyak hal ditentukan oleh kemampuan belajar secara efisien dan efektif. 
+- Kemampuan belajar bergantung pada kecepatan membaca dan kemampuan memahami isi bacaan. 
+- Untuk dapat belajar mandiri secara efisien dan efektif, mahasiswa dituntut memiliki disiplin diri, inisiatif, dan motivasi belajar yang kuat.
+- Mahasiswa juga dituntut untuk dapat mengatur waktunya dengan efisien, sehingga dapat belajar secara teratur berdasarkan jadwal belajar yang ditentukan sendiri.
+
+---
+
+## Cara Mempelajari Modul
+- Mempelajari tinjauan mata kuliah
+- Membaca sepintas, kemudian mengulangi dengan lebih cermat
+- Membuat catatan / rangkuman 
+- Memberi tanda pada konsep penting 
+- Menyaksikan bahan ajar non cetak
+- Mengerjakan latihan dan  tes formatif
+- Memanfaatkan kegiatan tutorial dengan menanyakan materi yang belum dipahami
+- Aktif berdiskusi pada saat kegiatan tutorial
+
+---
+
+## Rancangan Aktivitas Tutorial:
+
+- [Sesi 1: Konsep Dasar Sistem Ekonomi](https://bangtedy.github.io/sistemekonomi/docs/sesi1/sesi1#1)
+- [Sesi 2: Sistem Ekonomi dan Kebijakan Publik](https://bangtedy.github.io/sistemekonomi/docs/sesi2/sesi2#1)
+- [Sesi 3: Sistem Ekonomi Kapitalis](https://bangtedy.github.io/sistemekonomi/docs/sesi3/sesi3#1)
+- [Sesi 4: Sistem Ekonomi Sosialis](https://bangtedy.github.io/sistemekonomi/docs/sesi4/sesi4#1)
+- [Sesi 5: Sistem Ekonomi Campuran](https://bangtedy.github.io/sistemekonomi/docs/sesi5/sesi5#1)
+- [Sesi 6: Sistem Ekonomi Islam](https://bangtedy.github.io/sistemekonomi/docs/sesi6/sesi6#1)
+- [Sesi 7: Sistem Ekonomi Indonesia I-Reformasi Sistem Ekonomi Indonesia](https://bangtedy.github.io/sistemekonomi/docs/sesi7/sesi7#1)
+- [Sesi 8: Sistem Ekonomi Indonesia II-Sistem Ekonomi Pancasila ](https://bangtedy.github.io/sistemekonomi/docs/sesi8/sesi8#1)
+
+---
+
+## Rujukan Utama
+
+- Hamid, Edy Suandi, 2018. Buku Materi Pokok (BMP) ESPA4318 Sistem Ekonomi Edisi 3. Tangerang Selatan: Universitas Terbuka.
+
+## Rujukan Tambahan:
+
+- Doyle, Eleanor, 2005. The Economic System. John Wiley & Sons
+- Schneider, Geoffrey, 2019. The Evolution of Economic Ideas and Systems. A Pluralist Introduction. Routledge.
+
+
